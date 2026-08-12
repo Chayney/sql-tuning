@@ -5,7 +5,7 @@ SQLの実行計画とパフォーマンスがどう変化するのかを
 
 ## 検証方法  
 以下でPostgreSQLを起動・状態・停止が出来る  
-sudo service postgresql start 
+sudo service postgresql start  
 sudo service postgresql status  
 sudo service postgresql stop
 
